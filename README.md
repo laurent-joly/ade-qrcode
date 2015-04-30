@@ -11,3 +11,5 @@ http://iutsf.com/salles/XXX
 où XXX est le nom de la salle.
 
 Le développement est fait en PHP>=5
+
+Ceci est un test
